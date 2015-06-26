@@ -1,4 +1,5 @@
 Function: 
+＝＝＝
 
 Build xcode for static library and framework.
 
