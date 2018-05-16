@@ -1,6 +1,12 @@
 
+<<<<<<< HEAD
 3update5
 1update4
+=======
+2更新3
+1update3
+
+>>>>>>> 2
 
 Function: 
 ===
