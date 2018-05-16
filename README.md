@@ -1,3 +1,4 @@
+2222
 Function: 
 ===
 
@@ -11,3 +12,4 @@ How to Use?
 (1)put this file in your Xcode project catalog
 
 (2) run “./BuildXcodeShell.sh ” in your terminal
+我是第二个分支
