@@ -1,6 +1,4 @@
-1添加UI功能
-2添加游戏功能
-
+3update1
 Function: 
 ===
 
